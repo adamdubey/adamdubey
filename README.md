@@ -6,11 +6,16 @@ Hi! I'm Adam Dubey - a senior Technical Engineer specializing in DevOps & SDET A
 
 ## My Rules of Conduct
 
-🤔🍎 Beginner's mindset and curiosity in approaching new unknowns.<br />
-📐🛠 Apply first-principles thinking when approaching new challenges.<br />
-🚀🌔 It can be done. Go for the Moonshot!<br />
-🔍🚧 Check small things. Build Margins of Safety. Implement Redundancies for critical systems.<br />
-🙌👍 Perpetual optimism is a force multiplier. Shared understanding and consensus to accomplish desired end goals. Don't let adverse facts stand in the way of a good decision.<br />
+🤔🍎 Beginner's mindset and curiosity in approaching new unknowns.
+
+📐🛠 Apply first-principles thinking when approaching new challenges.
+
+🚀🌔 It can be done. Go for the Moonshot!
+
+🔍🚧 Check small things. Build Margins of Safety. Implement Redundancies for critical systems.
+
+🙌👍 Perpetual optimism is a force multiplier. Shared understanding and consensus to accomplish desired end goals. Don't let adverse facts stand in the way of a good decision.
+
 ✅🛬 Be pragmatic, have strong opinions, loosely held. Remember Occam's Razor, _when faced with two solutions that explain data equally well, the simplest solution is often the correct one._
 
 <!--
