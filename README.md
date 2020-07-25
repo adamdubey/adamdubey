@@ -1,7 +1,5 @@
 # Yo! 🖖
 
-![shin-chan](https://media.giphy.com/media/VIQ2OBrGPCq0o6QQZY/giphy.gif)
-
 Hi! I'm Adam Dubey - a senior Technical Engineer specializing in DevOps & SDET Automation. I have a tenacious passion for exploring and tinkering with various technologies to better enable teams to work more efficiently.
 
 ## My Rules of Conduct
