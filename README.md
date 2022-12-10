@@ -1,16 +1,8 @@
 # Yo! 🖖
 
-Hi! I'm Adam Dubey - a senior Technical Engineer specializing in DevOps & SDET Automation. I have a tenacious passion for exploring and tinkering with various technologies to better enable teams to work more efficiently.
-
-## My Rules of Conduct
-
-🤔🍎 Beginner's mindset and curiosity in approaching new unknowns.
-
-📐🛠 Apply first-principles thinking when approaching new challenges.
+Hi! I'm Adam Dubey - a DevOps & Site Reliability Engineer. I have a tenacious passion for exploring and tinkering with various technologies to better enable teams to work more efficiently.
 
 🚀🌔 It can be done. Go for the Moonshot!
-
-🔍🚧 Check small things. Build Margins of Safety. Implement Redundancies for critical systems.
 
 🙌👍 Perpetual optimism is a force multiplier. Shared understanding and consensus to accomplish desired end goals. Don't let adverse facts stand in the way of a good decision.
 
