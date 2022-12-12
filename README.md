@@ -1,24 +1,4 @@
-# Yo! 🖖
+### Yo! I'm Adam Dubey.
 
-Hi! I'm Adam Dubey - a DevOps & Site Reliability Engineer. I have a tenacious passion for exploring and tinkering with various technologies to better enable teams to work more efficiently.
+A Sr. Full-Stack DevOps & Site Reliability Engineer with a tenacious passion for exploring and creating automated solutions which enable teams to work more efficiently.
 
-🚀🌔 It can be done. Go for the Moonshot!
-
-🙌👍 Perpetual optimism is a force multiplier. Shared understanding and consensus to accomplish desired end goals. Don't let adverse facts stand in the way of a good decision.
-
-✅🛬 Be pragmatic, have strong opinions, loosely held. Remember Occam's Razor, _when faced with two solutions that explain data equally well, the simplest solution is often the correct one._
-
-<!--
-**adamdubey/adamdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
