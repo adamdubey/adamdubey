@@ -1,4 +1,3 @@
 ### Yo! I'm Adam Dubey 👋
 
-A Full-Stack DevOps Engineer with a tenacious passion for exploring and creating automated solutions which enable teams to work more efficiently.
-
+A seasoned Sr. Full-Stack DevOps Engineer with over a decade of experience dedicated to the relentless pursuit of innovation.
